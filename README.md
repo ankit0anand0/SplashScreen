@@ -1,8 +1,10 @@
-# splash_screen
+# Splash Screen for an app.
 
 A new Flutter project.
 
 ## Getting Started
+
+Project Look : 
 
 This project is a starting point for a Flutter application.
 
